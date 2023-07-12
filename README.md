@@ -35,8 +35,10 @@ Para o módulo de **Programação dinâmica**, escolhemos desenvolver soluções
 ![superSale](https://github.com/projeto-de-algoritmos/PD_OnlineJudge/assets/42985614/9252d389-3acc-4069-965a-03dc82c15206)
 
 ### Submissão aceita no UVA do problema 990 - Diving for Gold
+![photo_2023-07-11_21-42-06](https://github.com/projeto-de-algoritmos/PD_OnlineJudge/assets/42985614/f808ff3d-8b9e-4ad3-96ea-ca0b095426c0)
 
 ### Submissão aceita no UVA do problema 497 - Strategic Defense Initiative
+![photo_2023-07-11_21-42-09](https://github.com/projeto-de-algoritmos/PD_OnlineJudge/assets/42985614/37a32d71-f161-4ce0-b0b3-758a6b06154d)
 
 ### Submissão aceita no UVA do problema 11456 - Trainsorting
 ![trainsorting](https://github.com/projeto-de-algoritmos/PD_OnlineJudge/assets/42985614/1fe179cf-f8d3-4193-a481-d17a5fc01868)
